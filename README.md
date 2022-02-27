@@ -4,6 +4,26 @@
 - ✨ Hobbies: Reading books and Watching Cinema
 - ✨ Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS
 
+🌱 My Flutter Apps Projects
+- https://play.google.com/store/apps/details?id=com.education4u.education4u
+- https://play.google.com/store/apps/details?id=com.intechnique.passport2housing
+- https://play.google.com/store/apps/details?id=net.rosehillhousing.rosehillconnect
+- https://play.google.com/store/apps/details?id=network.getinvolved.tpasconnects
+- https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing
+
+🌱 My PHP Projects
+- https://myducktales.com/
+- https://passport2housing.com/
+- https://rosehillhousing.net/
+- https://tpas.getinvolved.network/
+- https://airbookerz.com/
+
+📜 My Recent Article Posts
+- [Voyager An Admin Panel For Your Laravel Application](https://www.c-sharpcorner.com/article/voyager-an-admin-panel-for-your-laravel-application/) - January 07, 2022
+- [Top 10 Flutter Useful Package](https://www.c-sharpcorner.com/article/top-10-useful-flutter-package/) -  August 24, 2021
+- [Why Choose Flutter For Cross-Platform Development](https://www.c-sharpcorner.com/article/why-choose-flutter-for-cross-platform-development/) - July 03, 2021
+- [How To Become A Good Developer](https://www.c-sharpcorner.com/article/how-to-become-a-good-developer/) - July 29, 2020
+
 📜 My Recent Blog Posts
 - [An Online No-Code Tool To Create Flutter Apps](https://www.c-sharpcorner.com/blogs/an-online-nocode-tool-to-create-flutter-apps) - January 05, 2022
 - [GetX In Flutter](https://www.c-sharpcorner.com/blogs/getx-in-flutter) - August 16, 2021

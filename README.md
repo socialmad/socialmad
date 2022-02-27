@@ -32,7 +32,7 @@
 - [An Online No-Code Tool To Create Flutter Apps](https://www.c-sharpcorner.com/blogs/an-online-nocode-tool-to-create-flutter-apps) - January 05, 2022
 - [GetX In Flutter](https://www.c-sharpcorner.com/blogs/getx-in-flutter) - August 16, 2021
 - [WebRTC (Web Real- Time Communication)](https://www.c-sharpcorner.com/blogs/webrtc-web-real-time-communication) - February 15, 2020
-- [RUD Operations in Python on MySQL](https://www.c-sharpcorner.com/blogs/crud-operations-in-python-using-mysql-database) - February 13, 2020
+- [CRUD Operations in Python on MySQL](https://www.c-sharpcorner.com/blogs/crud-operations-in-python-using-mysql-database) - February 13, 2020
 - [Working With Python Directory](https://www.c-sharpcorner.com/blogs/directory-management-in-python) - July 23, 2019
 - [Most Important Directives In AngularJS](https://www.c-sharpcorner.com/blogs/some-most-important-directive-in-angularjs) - June 06, 2019
 - [Concatenate Two Strings Using Binary Operator Overloading](https://www.c-sharpcorner.com/blogs/concatenate-two-string-using-binary-operator-overloading) - May 24, 2019

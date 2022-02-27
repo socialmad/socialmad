@@ -1,8 +1,8 @@
 ### Hi there👋
--✨My name is MD Sarfaraj
--✨I'm a Flutter app Developer
--✨Hobbies: Reading books and Watching Cinema
--✨Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS
+- ✨ My name is MD Sarfaraj
+- ✨ I'm a Flutter app Developer
+- ✨ Hobbies: Reading books and Watching Cinema
+- ✨ Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS
 
 🌱 My Recent Blogs Posts
 - [An Online No-Code Tool To Create Flutter Apps](https://www.c-sharpcorner.com/blogs/an-online-nocode-tool-to-create-flutter-apps)

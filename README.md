@@ -1,9 +1,13 @@
-### Hi, I'm MD Sarfaraj
-#### Flutter Developer | PHP | C# Corner MVP | Blogger
+### Hi there👋
+-✨My name is MD Sarfaraj
+-✨I'm a Flutter app Developer
+-✨Hobbies: Reading books and Watching Cinema
+-✨Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS
 
-Skills: Flutter / Dart / Firebase / PHP / MySql / HTML / CSS / JavaScript / SocialEngine / Laravel / WoWonder
+🌱 My Recent Blogs Posts
+- [An Online No-Code Tool To Create Flutter Apps](https://www.c-sharpcorner.com/blogs/an-online-nocode-tool-to-create-flutter-apps)
 
-####📫 How to reach me:
+📫 How to reach me:
 - WhatsApp: +91 6289311920
 - Gmail: yoursocialmd@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yoursocialmd/

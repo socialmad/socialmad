@@ -24,6 +24,7 @@
 - http://www.dailynickel.com/
 
 📜 My Recent Article Posts
+- [How To Create The Flutter App With Getx Architect](https://www.c-sharpcorner.com/article/how-to-create-the-flutter-app-with-getx-architect/) - March 08, 2022
 - [Voyager An Admin Panel For Your Laravel Application](https://www.c-sharpcorner.com/article/voyager-an-admin-panel-for-your-laravel-application/) - January 07, 2022
 - [Top 10 Flutter Useful Package](https://www.c-sharpcorner.com/article/top-10-useful-flutter-package/) -  August 24, 2021
 - [Why Choose Flutter For Cross-Platform Development](https://www.c-sharpcorner.com/article/why-choose-flutter-for-cross-platform-development/) - July 03, 2021

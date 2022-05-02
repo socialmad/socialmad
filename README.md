@@ -25,6 +25,7 @@
 - http://www.dailynickel.com/
 
 📜 My Recent Article Posts
+- [How To Manage Your Professional Career](https://www.c-sharpcorner.com/article/how-to-manage-your-professional-career/)
 - [How To Check The Internet Connectivity In The Flutter App](https://www.c-sharpcorner.com/article/how-to-check-the-internet-connectivity-in-the-flutter-app/) - April 07 2022
 - [An overview Of The OSI Model](https://www.c-sharpcorner.com/article/an-overview-of-the-osi-model/) - April 06, 2022
 - [Flutter State Management With Provider Package](https://www.c-sharpcorner.com/article/flutter-state-management-with-provider-package/) - March 28, 2022

@@ -4,7 +4,7 @@
 - ✨ Hobbies: Reading books and Watching Cinema
 - ✨ Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS, C, C++, Python
 
-##🌱 My Flutter App Projects
+🌱 My Flutter App Projects
 - https://play.google.com/store/apps/details?id=com.education4u.education4u
 - https://play.google.com/store/apps/details?id=com.intechnique.passport2housing
 - https://play.google.com/store/apps/details?id=net.uniqueapps.beautyone
@@ -13,18 +13,18 @@
 - https://play.google.com/store/apps/details?id=network.getinvolved.tpasconnects
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing
 
-##🌱 My PHP Projects
+🌱 My PHP Projects
 - https://myducktales.com/
 - https://passport2housing.com/
 - https://rosehillhousing.net/
 - https://tpas.getinvolved.network/
 - https://airbookerz.com/
 
-##🌱 Other Contributed Projects
+🌱 Other Contributed Projects
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect
 - http://www.dailynickel.com/
 
-##📜 My Recent Article Posts
+📜 My Recent Article Posts
 - [How To Manage Your Professional Career](https://www.c-sharpcorner.com/article/how-to-manage-your-professional-career/) - April 19, 2022
 - [How To Check The Internet Connectivity In The Flutter App](https://www.c-sharpcorner.com/article/how-to-check-the-internet-connectivity-in-the-flutter-app/) - April 07 2022
 - [An overview Of The OSI Model](https://www.c-sharpcorner.com/article/an-overview-of-the-osi-model/) - April 06, 2022
@@ -35,7 +35,7 @@
 - [Why Choose Flutter For Cross-Platform Development](https://www.c-sharpcorner.com/article/why-choose-flutter-for-cross-platform-development/) - July 03, 2021
 - [How To Become A Good Developer](https://www.c-sharpcorner.com/article/how-to-become-a-good-developer/) - July 29, 2020
 
-##📜 My Recent Blog Posts
+📜 My Recent Blog Posts
 - [Difference Between Get.toNamed, Get.offNamed And Get.offAllNamed](https://www.c-sharpcorner.com/blogs/difference-between-gettonamed-getoffnamed-and-getoffallnamed) - March 26, 2022
 - [An Online No-Code Tool To Create Flutter Apps](https://www.c-sharpcorner.com/blogs/an-online-nocode-tool-to-create-flutter-apps) - January 05, 2022
 - [GetX In Flutter](https://www.c-sharpcorner.com/blogs/getx-in-flutter) - August 16, 2021
@@ -50,7 +50,7 @@
 - [Login Page In ASP.NET Using Access Database](https://www.c-sharpcorner.com/blogs/log-in-page-in-asp-net-using-access-database) - February 15, 2019
 - [Insert, Update, And Delete Records In Java](https://www.c-sharpcorner.com/blogs/insertupdate-and-delete-record-in-java) - February 08, 2019
 
-##📫 How to reach me:
+📫 How to reach me:
 - WhatsApp: +91 6289311920
 - Gmail: yoursocialmd@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yoursocialmd/

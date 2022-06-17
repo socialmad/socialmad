@@ -53,5 +53,5 @@
 📫 How to reach me:
 - WhatsApp: +91 6289311920
 - Gmail: yoursocialmd@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yoursocialmd/
+- LinkedIn: https://www.linkedin.com/in/yourmdsarfaraj/
 - Twitter: https://twitter.com/yourmdsarfaraj

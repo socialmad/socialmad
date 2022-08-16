@@ -2,7 +2,7 @@
 - ✨ My name is MD Sarfaraj
 - ✨ I'm a Flutter app Developer
 - ✨ Hobbies: Reading books and Watching Cinema
-- ✨ Competencies: Flutter, Dart, Firebase, PHP, MySql, JavaScript, HTML, CSS, C, C++, Python
+- ✨ Competencies: Flutter, Dart, PHP, JavaScript, Firebase, MySQL
 
 🌱 My Flutter App Projects
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect

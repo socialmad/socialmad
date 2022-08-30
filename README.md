@@ -1,5 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHlrsrI2p26EQ/profile-displaybackgroundimage-shrink_350_1400/0/1654005231703?e=1667433600&v=beta&t=tbejuxmfNjm5uq9oroEq3vQGR7yAagKS_OneJTFQ6Bc" alt="cover" width="100%" height="auto"/>
-
 <p>
   <h1 align="center"><b>Hi there, I'm MD Sarfaraj 👨‍💻 </h1>
 </p>

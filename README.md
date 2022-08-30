@@ -13,7 +13,7 @@
 </p>
 <br />
 
-<h2 align="left">My Flutter App Projects 💻</h2>
+<h2 align="left">My favorite Flutter projects 💻</h2>
 <br />
 
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect
@@ -27,7 +27,7 @@
 - https://play.google.com/store/apps/details?id=net.uniqueapps.outaccounts&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing&hl=en&gl=US
 
-<h2 align="left">My PHP Projects 💻</h2> <br />
+<h2 align="left">My favorite PHP projects 💻</h2> <br />
 
 - https://myducktales.com/
 - https://passport2housing.com/

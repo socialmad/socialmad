@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-<a href="https://dev.to/yourmdsarfaraj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 <a href="https://www.c-sharpcorner.com/members/md-sarfaraj"><img src="https://img.shields.io/badge/csharpcorner.com-ff9728?style=for-the-badge&logo=c-sharpcorner.com&logoColor=white alt="C# Corner" /></a>&nbsp;
+<a href="https://dev.to/yourmdsarfaraj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 <a href="https://twitter.com/yourmdsarfaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
+
+<p align="center">Flutter Developer 👨‍💻 . Tech Blogger ✍️ . C# Corner MVP 🏆 - A writer by passion, an engineer by profession.</p>
 
 🌱 My Flutter App Projects
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect

@@ -39,5 +39,5 @@
 <br />
 
 <p align="center">
-<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="40" height="40"/> </a>
 </p>

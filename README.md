@@ -1,16 +1,22 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm MD Sarfaraj 👨‍💻 </h1>
+  <h1 align="left"><b>Hi there, I'm MD Sarfaraj 👨‍💻 </h1>
 </p>
+
+
+<h2 align="left">About me 😇</h2>
+<br />
+<p align="left">MD Sarfaraj is a Software Engineer currently working as a Flutter developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include <a href="https://www.c-sharpcorner.com/members/md-sarfaraj">C# Corner</a>, <a href="https://dev.to/yourmdsarfaraj">DEV</a>, and <a href="https://medium.com/@yourmdsarfaraj">Medium</a>. He is an enthusiast of blockchain technology. He has been recognized as <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP (Most Valuable Professional).</p>
+
+<h2 align="left"> Connect with me 🤝</h2>
+<br />
 
 <p align="center">
 <a href="https://www.c-sharpcorner.com/members/md-sarfaraj"><img src="https://img.shields.io/badge/csharpcorner.com-ff9728?style=for-the-badge&logo=c-sharpcorner.com&logoColor=white alt="C# Corner" /></a>&nbsp;
 <a href="https://dev.to/yourmdsarfaraj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 <a href="https://twitter.com/yourmdsarfaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yourmdsarfaraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/yourmdsarfaraj/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 </p>
-
-<h2 align="left">About me 😇</h2>
-<br />
-<p align="left">MD Sarfaraj is a Software Engineer currently working as a Flutter developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include <a href="https://www.c-sharpcorner.com/members/md-sarfaraj">C# Corner</a>, <a href="https://dev.to/yourmdsarfaraj">DEV</a>, and <a href="https://medium.com/@yourmdsarfaraj">Medium</a>. He is an enthusiast of blockchain technology. He has been recognized as <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP (Most Valuable Professional).</p>
 
 <h2 align="left">My favorite Flutter projects 💻</h2>
 <br />

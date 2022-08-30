@@ -11,7 +11,7 @@
 </p>
 
 
-<img src="https://drive.google.com/file/d/1HMjmQEYXjV0O0DfGjvMnITYsjJpU-BY1/view?usp=sharing" alt="cover"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHlrsrI2p26EQ/profile-displaybackgroundimage-shrink_350_1400/0/1654005231703?e=1667433600&v=beta&t=tbejuxmfNjm5uq9oroEq3vQGR7yAagKS_OneJTFQ6Bc" alt="cover"/>
 
 <h2 align="left">About Me 😇</h2>
 <br />

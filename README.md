@@ -24,8 +24,8 @@
 - https://play.google.com/store/apps/details?id=net.uniqueapps.outaccounts&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing&hl=en&gl=US
 
-<h2 align="left">My PHP Projects 💻</h2>
-<br />
+<h2 align="left">My PHP Projects 💻</h2> <br />
+
 - https://myducktales.com/
 - https://passport2housing.com/
 - https://booking.beautyone.uk/

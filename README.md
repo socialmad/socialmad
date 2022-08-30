@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHlrsrI2p26EQ/profile-displaybackgroundimage-shrink_350_1400/0/1654005231703?e=1667433600&v=beta&t=tbejuxmfNjm5uq9oroEq3vQGR7yAagKS_OneJTFQ6Bc" alt="cover" width="100%" height="auto"/>
+
 <p>
   <h1 align="center"><b>Hi there, I'm MD Sarfaraj 👨‍💻 </h1>
 </p>
@@ -10,8 +12,6 @@
 <a href="https://www.facebook.com/yourmdsarfaraj/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 </p>
 
-
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHlrsrI2p26EQ/profile-displaybackgroundimage-shrink_350_1400/0/1654005231703?e=1667433600&v=beta&t=tbejuxmfNjm5uq9oroEq3vQGR7yAagKS_OneJTFQ6Bc" alt="cover"/>
 
 <h2 align="left">About Me 😇</h2>
 <br />

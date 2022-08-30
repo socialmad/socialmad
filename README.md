@@ -26,7 +26,6 @@
 
 <h2 align="left">My PHP Projects 💻</h2>
 <br />
-{% embed https://myducktales.com/ %}
 - https://myducktales.com/
 - https://passport2housing.com/
 - https://booking.beautyone.uk/

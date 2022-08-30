@@ -40,4 +40,5 @@
 
 <p align="center">
 <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="50"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="50"/> </a>
 </p>

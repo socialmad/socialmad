@@ -40,16 +40,5 @@
 <br />
 <p align="left">MD Sarfaraj is a Software Engineer currently working as a Flutter developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include <a href="https://www.c-sharpcorner.com/members/md-sarfaraj">C# Corner</a>, <a href="https://dev.to/yourmdsarfaraj">DEV</a>, and <a href="https://medium.com/@yourmdsarfaraj">Medium</a>. He is an enthusiast of blockchain technology. He has been recognized as <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP (Most Valuable Professional).</p>
 
-
-📜 My Article Posts
-- https://www.c-sharpcorner.com/members/md-sarfaraj/articles
-
-📜 My Blog Posts
-- https://www.c-sharpcorner.com/members/md-sarfaraj/blogs
-
-📫 How to reach me:
-- WhatsApp: +91 6289311920
-- Gmail: yoursocialmd@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yourmdsarfaraj/
-- Twitter: https://twitter.com/yourmdsarfaraj
-- DEV: https://dev.to/yourmdsarfaraj
+<h2 align="left">Languages and Tools</h2>
+<br />

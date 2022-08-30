@@ -8,7 +8,7 @@
 <a href="https://twitter.com/yourmdsarfaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 
-<p align="center">MD Sarfaraj is a Software Engineer currently working as a Flutter app developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include (C# Corner)[https://www.c-sharpcorner.com/members/md-sarfaraj], [DEV](https://dev.to/yourmdsarfaraj), and [Medium](https://medium.com/@yourmdsarfaraj). He is an enthusiast of blockchain technology. He has been recognized as [C# Corner](https://www.c-sharpcorner.com/) MVP (Most Valuable Professional).</p>
+<p align="center">MD Sarfaraj is a Software Engineer currently working as a Flutter app developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include <a href="https://www.c-sharpcorner.com/members/md-sarfaraj">C# Corner</a>, <a href="(https://dev.to/yourmdsarfaraj">DEV</a>), and <a href="https://medium.com/@yourmdsarfaraj">Medium</a>. He is an enthusiast of blockchain technology. He has been recognized as <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP (Most Valuable Professional).</p>
 
 🌱 My Flutter App Projects
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect

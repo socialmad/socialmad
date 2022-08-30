@@ -10,7 +10,10 @@
 
 <p align="center">MD Sarfaraj is a Software Engineer currently working as a Flutter app developer, He has over 3+ years of extensive experience in Flutter, Dart, PHP, SocialEngine, JavaScript, Firebase, MySQL, and other technologies. MD Sarfaraj is a technical author who contributes to the open-source community. He writes articles for multiple platforms, which include <a href="https://www.c-sharpcorner.com/members/md-sarfaraj">C# Corner</a>, <a href="https://dev.to/yourmdsarfaraj">DEV</a>, and <a href="https://medium.com/@yourmdsarfaraj">Medium</a>. He is an enthusiast of blockchain technology. He has been recognized as <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP (Most Valuable Professional).</p>
 
-🌱 My Flutter App Projects
+<h2 align="center">My Flutter App Projects 💻</h2>
+<br />
+
+<p align="center">
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect
 - https://play.google.com/store/apps/details?id=com.education4u.education4u
 - https://play.google.com/store/apps/details?id=com.intechnique.passport2housing
@@ -21,6 +24,7 @@
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing
 - https://play.google.com/store/apps/details?id=net.uniqueapps.outaccounts&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing&hl=en&gl=US
+</p>
 
 🌱 My PHP Projects
 - https://myducktales.com/

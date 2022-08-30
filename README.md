@@ -39,17 +39,15 @@
 <br />
 
 <p align="left">
-<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="dart" width="100" height="50"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="dart" width="100" height="50"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="dart" width="50" height="50"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="dart" width="100" height="50"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="dart" width="100" height="50"/> </a>
-  
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="100" height="50"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="100" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100" height="50"/>
 </p>

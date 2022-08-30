@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-Flutter Developer 👨‍💻 . Tech Blogger ✍️ . C# Corner MVP 🏆 - A writer by passion, an engineer by profession
+  Flutter Developer 👨‍💻 . Tech Blogger ✍️ . <a href="https://www.c-sharpcorner.com/">C# Corner</a> MVP 🏆 - A writer by passion, an engineer by profession
 </p>
+<br />
 
 <h2 align="left">My Flutter App Projects 💻</h2>
 <br />

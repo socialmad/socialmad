@@ -35,7 +35,7 @@
 - https://tpas.getinvolved.network/
 - https://airbookerz.com/
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools ⚒️</h2>
 <br />
 
 <p align="left">
@@ -51,3 +51,13 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100" height="50"/>
 </p>
+
+<h2 align="left">Popular Blog Posts 📕</h2>
+<br />
+
+- [Roadmap to becoming a Flutter developer](https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63)
+- [How to create your personal brand?](https://dev.to/this-is-learning/how-to-create-your-personal-brand-1mp0)
+- [How to become a good developer?](https://dev.to/this-is-learning/how-to-become-a-good-developer-7no)
+- [How to manage your professional career?](https://dev.to/this-is-learning/how-to-manage-your-professional-career-5bf)
+
+... [READ MORE](https://dev.to/yourmdsarfaraj)

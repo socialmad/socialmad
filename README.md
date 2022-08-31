@@ -52,7 +52,7 @@
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="100" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="100" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100" height="50"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="50" height="50"/>
 </p>
 
 <h2 align="left">Popular Blog Posts 📕</h2>

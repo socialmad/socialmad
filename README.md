@@ -67,9 +67,7 @@ When he's not saving the world from lousy coding and development, he's sharing h
 <h2 align="left">Popular Blog Posts 📕</h2>
 <br />
 
+- [My Journey From PHP To Flutter Developer](https://www.c-sharpcorner.com/article/my-journey-from-php-to-flutter-developer/)
 - [Roadmap to becoming a Flutter developer](https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63)
-- [How to create your personal brand?](https://dev.to/this-is-learning/how-to-create-your-personal-brand-1mp0)
-- [How to become a good developer?](https://dev.to/this-is-learning/how-to-become-a-good-developer-7no)
-- [How to manage your professional career?](https://dev.to/this-is-learning/how-to-manage-your-professional-career-5bf)
-
+- [GetConnect: The Best Way To Perform API Operations In Flutter With GetX.](https://absyz.com/getconnect-the-best-way-to-perform-api-operations-in-flutter-with-getx/)
 ... [READ MORE](https://dev.to/yourmdsarfaraj)

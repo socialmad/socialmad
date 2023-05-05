@@ -15,11 +15,11 @@
 <br />
 <p align="left">
 
-MD Sarfaraj, the international man of software development, is no mystery, as he brings over 3+ years of top-secret tech experience. With expertise to code in Flutter, Dart, SocialEngine, PHP Frameworks (Laravel & CodeIgniter), Firebase, and MySQL, he's the tech world's equivalent of James Bond, always ready to complete his mission with style and efficiency.
+MD Sarfaraj, a creative and pragmatic technical professional with over 4 years of experience in software development. MD Sarfaraj is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, Core PHP, PHP Frameworks (Laravel & CodeIgniter), Firebase, Appwrite, and MySQL.
 
-But Sarfaraj doesn't need "Q" for his gadgets and gizmos. He is a creative problem-solver who always brings a touch of humour to every project he works on. He's a master of Flutter and SocialEngine PHP ninja, able to tackle any coding challenge with the same ease as Tom Cruise in Mission Impossible.
+As a Technical Author, MD Sarfaraj writes blogs and articles on multiple platforms, including C# Corner, DEV, and many other community platforms. MD Sarfaraj has been awarded twice as a C# Corner MVP (Most Valuable Professional), a testament to his expertise and dedication to the field.
 
-When he's not saving the world from lousy coding and development, he's sharing his tech expertise with the world, writing blog posts and speaking at events. He can spin the Web like a tech version of Spider-Man (without the latex suit). His passion for technology and commitment to excellence, Sarfaraj, is the perfect addition to any team needing a highly skilled and dedicated software developer. Get ready to be on the winning team with MD Sarfaraj on your side.
+With a passion for crafting high-performing software applications, MD Sarfaraj is an excellent addition to any development team. Whether you're looking to create cutting-edge mobile apps or optimize your web applications.
   
 </p>
 

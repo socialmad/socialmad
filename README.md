@@ -26,6 +26,7 @@ With a passion for crafting high-performing software applications, MD Sarfaraj i
 <h2 align="left">My Favorite Flutter Projects 💻</h2>
 <br />
 
+- https://play.google.com/store/apps/details?id=com.connect.absyapp
 - https://play.google.com/store/apps/details?id=com.makeinodisha.mio
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect
 - https://play.google.com/store/apps/details?id=com.education4u.education4u

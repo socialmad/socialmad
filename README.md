@@ -4,10 +4,10 @@
 
 <p align="center">
 <a href="https://www.c-sharpcorner.com/members/md-sarfaraj"><img src="https://img.shields.io/badge/csharpcorner.com-ff9728?style=for-the-badge&logo=c-sharpcorner.com&logoColor=white alt="C# Corner" /></a>&nbsp;
-<a href="https://dev.to/yourmdsarfaraj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
+<!-- <a href="https://dev.to/yourmdsarfaraj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp; -->
 <a href="https://twitter.com/yourmdsarfaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yourmdsarfaraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.facebook.com/yourmdsarfaraj/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<!-- <a href="https://www.facebook.com/yourmdsarfaraj/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp; -->
 </p>
 
 
@@ -15,12 +15,10 @@
 <br />
 <p align="left">
 
-MD Sarfaraj, a creative and pragmatic technical professional with over 4 years of experience in software development. MD Sarfaraj is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, Core PHP, PHP Frameworks (Laravel & CodeIgniter), Firebase, Appwrite, and MySQL.
+MD Sarfaraj is a creative and pragmatic technical professional with 4+ years of experience in software development. He is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, PHP, Firebase, and MySQL. Apart from his work, he writes blogs and articles on C# Corner, and speaks at tech events. 
 
-As a Technical Author, MD Sarfaraj writes blogs and articles on multiple platforms, including C# Corner, DEV, and many other community platforms. MD Sarfaraj has been awarded twice as a C# Corner MVP (Most Valuable Professional), a testament to his expertise and dedication to the field.
+MD Sarfaraj is a highly skilled and dedicated software developer recognized twice as a C# Corner MVP (Most Valuable Professional). His expertise in crafting high-performing software applications makes him an excellent addition to any development team. Whether you need to create cutting-edge mobile apps or optimize your web applications, MD Sarfaraj has the passion and skills to help you achieve your goals.
 
-With a passion for crafting high-performing software applications, MD Sarfaraj is an excellent addition to any development team. Whether you're looking to create cutting-edge mobile apps or optimize your web applications.
-  
 </p>
 
 <h2 align="left">My Favorite Flutter Projects 💻</h2>

@@ -12,7 +12,6 @@
 
 
 <h2 align="left">About Me 😇</h2>
-<br />
 <p align="left">
 
 MD Sarfaraj is a creative and pragmatic technical professional with 4+ years of experience in software development. He is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, PHP, Firebase, and MySQL. Apart from his work, he writes blogs and articles on C# Corner, and speaks at tech events. 
@@ -22,8 +21,6 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 </p>
 
 <h2 align="left">My Flutter Projects 💻</h2>
-<br />
-
 - https://play.google.com/store/apps/details?id=com.connect.absyapp
 - https://play.google.com/store/apps/details?id=com.makeinodisha.mio
 - https://play.google.com/store/apps/details?id=com.ikontechnologies.ikonconnect
@@ -48,8 +45,6 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 
 
 <h2 align="left">Recent Articles 📕</h2>
-<br />
-
 - [Build a Storytelling App with Flutter and Gemini AI](https://www.c-sharpcorner.com/article/build-a-storytelling-app-with-flutter-and-gemini-ai/)
 - [Adding Multi-Language Support to Flutter Apps](https://www.c-sharpcorner.com/article/adding-multi-language-support-to-flutter-apps/)
 - [Getting Started with Redux Saga in React Native](https://www.c-sharpcorner.com/article/getting-started-with-redux-saga-in-react-native/)

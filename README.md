@@ -21,7 +21,7 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 
 </p>
 
-<h2 align="left">My Favorite Flutter Projects 💻</h2>
+<h2 align="left">My Flutter Projects 💻</h2>
 <br />
 
 - https://play.google.com/store/apps/details?id=com.connect.absyapp
@@ -37,7 +37,7 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 - https://play.google.com/store/apps/details?id=net.uniqueapps.outaccounts&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=com.intechnique.rosehill.passport2housing&hl=en&gl=US
 
-<h2 align="left">My Favorite PHP Projects 💻</h2> <br />
+<h2 align="left">My PHP Projects 💻</h2> <br />
 
 - https://myducktales.com/
 - https://passport2housing.com/
@@ -46,22 +46,6 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 - https://tpas.getinvolved.network/
 - https://airbookerz.com/
 
-<h2 align="left">Languages and Tools ⚒️</h2>
-<br />
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="100" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="100" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="50"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="50" height="50"/>
-</p>
 
 <h2 align="left">Recent Articles 📕</h2>
 <br />

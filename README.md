@@ -63,10 +63,10 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="50" height="50"/>
 </p>
 
-<h2 align="left">Popular Blog Posts 📕</h2>
+<h2 align="left">Recent Articles 📕</h2>
 <br />
 
-- [My Journey From PHP To Flutter Developer](https://www.c-sharpcorner.com/article/my-journey-from-php-to-flutter-developer/)
-- [Roadmap to becoming a Flutter developer](https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63)
-- [GetConnect: The Best Way To Perform API Operations In Flutter With GetX.](https://absyz.com/getconnect-the-best-way-to-perform-api-operations-in-flutter-with-getx/)
-... [READ MORE](https://dev.to/yourmdsarfaraj)
+- [Build a Storytelling App with Flutter and Gemini AI](https://www.c-sharpcorner.com/article/build-a-storytelling-app-with-flutter-and-gemini-ai/)
+- [Adding Multi-Language Support to Flutter Apps](https://www.c-sharpcorner.com/article/adding-multi-language-support-to-flutter-apps/)
+- [Getting Started with Redux Saga in React Native](https://www.c-sharpcorner.com/article/getting-started-with-redux-saga-in-react-native/)
+- [Read more articles](https://www.c-sharpcorner.com/members/md-sarfaraj/articles)

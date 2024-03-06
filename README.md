@@ -45,8 +45,7 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized twic
 - https://airbookerz.com/
 
 <h2 align="left">Recent Articles 📕</h2>
-
+- [Factory Method Design Pattern In Flutter](https://www.c-sharpcorner.com/article/factory-method-design-pattern-in-flutter/)
+- [Introduction to Design Patterns in Flutter](https://www.c-sharpcorner.com/article/introduction-to-design-patterns-in-flutter/)
 - [Build a Storytelling App with Flutter and Gemini AI](https://www.c-sharpcorner.com/article/build-a-storytelling-app-with-flutter-and-gemini-ai/)
-- [Adding Multi-Language Support to Flutter Apps](https://www.c-sharpcorner.com/article/adding-multi-language-support-to-flutter-apps/)
-- [Getting Started with Redux Saga in React Native](https://www.c-sharpcorner.com/article/getting-started-with-redux-saga-in-react-native/)
 - [Read more articles](https://www.c-sharpcorner.com/members/md-sarfaraj/articles)

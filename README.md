@@ -14,9 +14,9 @@
 <h2 align="left">About Me 😇</h2>
 <p align="left">
 
-MD Sarfaraj is a creative and pragmatic technical professional with 4+ years of experience in software development. He is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, PHP, Firebase, and MySQL. Apart from his work, he writes blogs and articles on C# Corner, and speaks at tech events. 
+MD Sarfaraj is a creative and pragmatic technical professional with 5+ years of experience in software development. He is proficient in various technologies, including Flutter, Dart, React Native, JavaScript, SocialEngine, PHP, Firebase, and MySQL. Apart from his work, he writes blogs and articles on C# Corner, and speaks at tech events. 
 
-MD Sarfaraj is a highly skilled and dedicated software developer recognized twice as a C# Corner MVP (Most Valuable Professional). His expertise in crafting high-performing software applications makes him an excellent addition to any development team. Whether you need to create cutting-edge mobile apps or optimize your web applications, MD Sarfaraj has the passion and skills to help you achieve your goals.
+MD Sarfaraj is a highly skilled and dedicated software developer recognized thrice as a C# Corner MVP (Most Valuable Professional). His expertise in crafting high-performing software applications makes him an excellent addition to any development team. Whether you need to create cutting-edge mobile apps or optimize your web applications, MD Sarfaraj has the passion and skills to help you achieve your goals.
 
 </p>
 

@@ -20,7 +20,7 @@ MD Sarfaraj is a highly skilled and dedicated software developer recognized thri
 
 </p>
 
-<h2 align="left">My Mobile Projects 💻</h2>
+<h2 align="left">My Mobile App Projects 💻</h2>
 
 - https://play.google.com/store/apps/details?id=com.connect.absyapp
 - https://play.google.com/store/apps/details?id=com.makeinodisha.mio
